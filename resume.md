@@ -1,9 +1,9 @@
 # Patch Salts \| Software Developer
 **Rochester, NY**
 
-patchsalts@gmail.com \| github.com/PatchSalts \| linkedin.com/in/patchsalts
+[patchsalts@gmail.com](mailto:patchsalts@gmail.com) \| [github.com/PatchSalts](https://github.com/PatchSalts) \| [linkedin.com/in/patchsalts](https://linkedin.com/in/patchsalts)
 
-[**View the PDF version here**](/assets/doc/resume.pdf)
+[View the PDF version here](/assets/doc/resume.pdf)
 
 ## Work Experience
 
@@ -28,12 +28,12 @@ Silver Springs, NY | 01/2020–08/2020
 ## Project Experience
 
 ### Digital Japanese flashcard deck builder
-github.com/PatchSalts/anki-builder
+[github.com/PatchSalts/anki-builder](https://github.com/PatchSalts/anki-builder)
 - Wrote a library of tools in Python to scan files for Japanese phrases using Fugashi and Unidic to segment words apart and generate flashcards
 - Used powerful tools like RegEx to find Japanese characters, web APIs and the Python Requests library to request dictionary definitions, and Python’s JSON library to parse the results from the web
 
 ### 3D Rendering Demo
-people.rit.edu/pps3941/GraphicsFinal/cityoftears.html
+[people.rit.edu/pps3941/GraphicsFinal/cityoftears.html](https://people.rit.edu/pps3941/GraphicsFinal/cityoftears.html)
 - Implemented textures, transparency, and frame rate-independent animation in JavaScript, HTML, WebGL, and GLSL
 
 ## Education
