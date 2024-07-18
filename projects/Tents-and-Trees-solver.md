@@ -1,8 +1,9 @@
 ---
-github:
-    zip_url: https://github.com/PatchSalts/Tents-and-Trees-solver/zipball/main
-    tar_url: https://github.com/PatchSalts/Tents-and-Trees-solver/tarball/main
-    repository_url: https://github.com/PatchSalts/Tents-and-Trees-solver
+show_downloads: true
+    github:
+        zip_url: https://github.com/PatchSalts/Tents-and-Trees-solver/zipball/main
+        tar_url: https://github.com/PatchSalts/Tents-and-Trees-solver/tarball/main
+        repository_url: https://github.com/PatchSalts/Tents-and-Trees-solver
 ---
 
 # Tents and Trees solver
