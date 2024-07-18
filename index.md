@@ -1,3 +1,5 @@
 # Patch Salts \| Software Engineer
 
-Hello! Check out my resume, or some of my projects.
+Hello! Check out my [resume](/resume.md), or some of my projects.
+
+- [Resume](/resume.md)
