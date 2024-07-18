@@ -1,3 +1,10 @@
+---
+github:
+    zip_url: https://github.com/PatchSalts/Tents-and-Trees-solver/zipball/main
+    tar_url: https://github.com/PatchSalts/Tents-and-Trees-solver/tarball/main
+    repository_url: https://github.com/PatchSalts/Tents-and-Trees-solver
+---
+
 # Tents and Trees solver
 
 This was a final project for my Concepts of Computer Systems class. It solves Tents and Trees puzzles. It was written in MIPS assembly.
