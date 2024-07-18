@@ -3,7 +3,7 @@
 
 [patchsalts@gmail.com](mailto:patchsalts@gmail.com) \| [github.com/PatchSalts](https://github.com/PatchSalts) \| [linkedin.com/in/patchsalts](https://linkedin.com/in/patchsalts)
 
-[**View the PDF version here**](/assets/doc/resume.pdf)
+[View the PDF version here](/assets/doc/resume.pdf)
 
 ## Work Experience
 
