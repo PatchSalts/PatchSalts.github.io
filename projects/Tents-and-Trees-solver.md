@@ -1,5 +1,5 @@
 ---
-show_downloads: true
+site: true
     github:
         zip_url: https://github.com/PatchSalts/Tents-and-Trees-solver/zipball/main
         tar_url: https://github.com/PatchSalts/Tents-and-Trees-solver/tarball/main
