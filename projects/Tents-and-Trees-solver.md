@@ -1,3 +1,5 @@
+[← Back](/)
+
 # Tents and Trees solver
 
 This was a final project for my Concepts of Computer Systems class. It solves Tents and Trees puzzles. It was written in MIPS assembly.

@@ -1,3 +1,5 @@
+[← Back](/)
+
 # Patch Salts \| Software Developer
 **Rochester, NY**
 
