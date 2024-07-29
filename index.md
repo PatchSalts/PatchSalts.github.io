@@ -1,5 +1,7 @@
 # Patch Salts \| Software Engineer
 
+[patchsalts@gmail.com](mailto:patchsalts@gmail.com) \| [github.com/PatchSalts](https://github.com/PatchSalts) \| [linkedin.com/in/patchsalts](https://linkedin.com/in/patchsalts)
+
 Hello! Check out my [resume](/resume), or some of my projects.
 
 [![A banner for Tents and Trees solver showing a mockup of an in-progress puzzle](/assets/img/Tents-and-Trees-solver_banner.png)](/projects/Tents-and-Trees-solver)
